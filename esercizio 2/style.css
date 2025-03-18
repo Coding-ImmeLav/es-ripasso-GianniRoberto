@@ -52,13 +52,18 @@ body {
     width: 50%;
 }
 
-.sp1:hover {
+.sp2:hover{
     color: blue;
     cursor: pointer;
 }
 
-.sp2:hover {
+.sp3:hover {
     color: red;
     background-color: goldenrod;
+    cursor: pointer;
+}
+
+.sp1:hover {
+    background-color: brown;
     cursor: pointer;
 }

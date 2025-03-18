@@ -5,3 +5,60 @@ body {
 }
 
 /* Inserisci qui di seguito il css necessario per completare gli esercizi */
+
+.f1 {
+    color: red;
+}
+
+.f2 {
+    color: green; 
+    font-size: 20px;
+}
+
+.f3{
+    color: blue;
+    font-weight: bold;
+}
+
+.f4{
+    color: orange; 
+    font-style: italic;
+}
+
+.b1 {
+    background-color: green;
+    color: white;
+    border: none;
+    padding-inline: 30px;
+    padding-block: 10px;
+}
+
+.b2 {
+    background-color: red;
+    color: white;
+    border: 2px solid black;
+    padding-inline: 30px;
+    padding-block: 10px;
+}
+
+.d1 {
+    background-color: pink;
+    height: 30vh;
+}
+
+.d2 {
+    background-color: aqua;
+    height: 30vh;
+    width: 50%;
+}
+
+.sp1:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.sp2:hover {
+    color: red;
+    background-color: goldenrod;
+    cursor: pointer;
+}

@@ -22,22 +22,36 @@ button {
 
 #primo {
     /* inserisci qui il codice per il primo elemento*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #secondo {
     /* inserisci qui il codice per il secondo elemento*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #terzo {
     /* inserisci qui il codice per il terzo elemento*/
+    display: flex;
+    
+    align-items: last baseline;
 }
 
 #quarto {
     /* inserisci qui il codice per il quarto elemento*/
+    
 }
 
 #quinto {
     /* inserisci qui il codice per il quinto elemento*/
+    display: flex;
+    justify-content: center;
+
+
 }
 
 #verde {
@@ -47,5 +61,17 @@ button {
 
 #blu {
     background-color: lightskyblue;
+}
+.g1 {
+    margin-right: 2px;
+    display: flex-s;
+    justify-content: center;
+    align-items: center;
+}
+
+.g2 {
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
 }
 
